@@ -6,4 +6,4 @@ github is good ,i start to study how to use ;
 thanks to github
 
 
-hello world
+hello world 世界你好
